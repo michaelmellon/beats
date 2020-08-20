@@ -6,4 +6,4 @@ Increase or decrease the tempo and hit play.
 
 
 TODO:
-- add dynamic sizing!!
+- Not intended to be resizable, but going to incorporate page responsiveness. 
